@@ -1,2 +1,2 @@
 #FILE-IO
-Package contain a code for Read, Write and Copy any files in Java
+In/out put files, for Java
